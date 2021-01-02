@@ -2,7 +2,7 @@
 
 # Codewars Katas Rust
 
-![Dugiwarc](https://www.codewars.com/users/dugiwarc/badges/large)
+![Dugiwarc](https://www.codewars.com/users/tomoshimi/badges/large)
 
 ## 8 kyu
 
