@@ -6,6 +6,8 @@
 
 ## 8 kyu
 
+- [Beginner - Lost Without a Map](./BeginnerLostWithoutAMap/index.rs) - [View Kata Details](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/rust)
+
 - [Reversed Strings](./ReversedStrings/index.rs) - [View Kata Details](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/rust)
 
 - [Even or Odd](./EvenOrOdd/index.rs) - [View Kata Details](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/rust)
