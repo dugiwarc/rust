@@ -22,6 +22,8 @@
 
 - [Categorize New Member](./CategorizeNewMember/index.rs) - [View Kata Details](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/rust)
 
+- [Descending Order](./DescendingOrder/index.rs) - [View Kata Details](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/rust)
+
 ## 6 kyu
 
 - [Highest Scoring Word](./HighestScoringWord/index.rs) - [View Kata Details](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/rust)
