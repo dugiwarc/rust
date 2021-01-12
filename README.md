@@ -6,6 +6,8 @@
 
 ## 8 kyu
 
+- [DNA to RNA Conversion](./DnaToRnaConversion/index.rs) - [View Kata Details](https://www.codewars.com/kata/5556282156230d0e5e000089/train/rust)
+
 - [Beginner - Lost Without a Map](./BeginnerLostWithoutAMap/index.rs) - [View Kata Details](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/rust)
 
 - [Reversed Strings](./ReversedStrings/index.rs) - [View Kata Details](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/rust)
