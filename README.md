@@ -29,3 +29,5 @@
 ## 6 kyu
 
 - [Highest Scoring Word](./HighestScoringWord/index.rs) - [View Kata Details](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/rust)
+
+- [Consecutive strings](./ConsecutiveStrings/index.rs) - [View Kata Details](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/rust)
