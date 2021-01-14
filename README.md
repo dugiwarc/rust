@@ -18,7 +18,9 @@
 
 - [Square(n) Sum](./SquareNSum/index.rs) - [View Kata Details](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/rust)
 
-- [Are you playing banjo?](./AreYouPlayingBanjo) - [View Kata Details](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/rust)
+- [Are you playing banjo?](./AreYouPlayingBanjo/index.rs) - [View Kata Details](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/rust)
+
+- [String repeat](./StringRepeat/index.rs) - [View Kata Details](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/rust)
 
 ## 7 kyu
 
