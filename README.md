@@ -28,6 +28,8 @@
 
 - [Descending Order](./DescendingOrder/index.rs) - [View Kata Details](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/rust)
 
+- [Find the middle element](./FindTheMiddleElement/index.rs) - [View Kata Details](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/train/rust)
+
 ## 6 kyu
 
 - [Highest Scoring Word](./HighestScoringWord/index.rs) - [View Kata Details](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/rust)
