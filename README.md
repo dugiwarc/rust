@@ -22,6 +22,8 @@
 
 - [String repeat](./StringRepeat/index.rs) - [View Kata Details](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/rust)
 
+- [Opposite number](./FindOpposite/index.rs) - [View Kata Details](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/rust)
+
 ## 7 kyu
 
 - [Categorize New Member](./CategorizeNewMember/index.rs) - [View Kata Details](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/rust)
