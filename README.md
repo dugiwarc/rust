@@ -38,6 +38,8 @@
 
 - [Give me a Diamond](./GiveMeADiamond/index.rs) - [View Kata Details](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/rust)
 
+- [Replace With Alphabet Position](./ReplaceWithAlphabetPosition/index.rs) - [View Kata Details](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/rust)
+
 - [Highest Scoring Word](./HighestScoringWord/index.rs) - [View Kata Details](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/rust)
 
 - [Consecutive strings](./ConsecutiveStrings/index.rs) - [View Kata Details](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/rust)
