@@ -30,6 +30,8 @@
 
 - [Credit Card Mask](./CreditCardMask/index.rs) - [View Kata Details](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/rust)
 
+- [Going to the inema](./GoingToTheCinema/index.rs) - [View Kata Details](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e/train/rust)
+
 - [Categorize New Member](./CategorizeNewMember/index.rs) - [View Kata Details](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/rust)
 
 - [String ends with ?](./StringEndsWith?/index.rs) - [View Kata Details](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/rust)
