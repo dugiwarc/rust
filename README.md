@@ -4,6 +4,10 @@
 
 ![Dugiwarc](https://www.codewars.com/users/tomoshimi/badges/large)
 
+## Run with
+
+- `rustc -o main *.rs`
+
 ## 8 kyu
 
 - [Sort and Star](./SortAndStar/index.rs) - [View Kata Details](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/rust)
@@ -27,6 +31,8 @@
 - [Opposite number](./FindOpposite/index.rs) - [View Kata Details](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/rust)
 
 ## 7 kyu
+
+- [Find the Capitals](./FindTheCapitals/index.rs) - [View Kata Details](https://www.codewars.com/kata/53573877d5493b4d6e00050c/train/rust)
 
 - [Credit Card Mask](./CreditCardMask/index.rs) - [View Kata Details](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/rust)
 
