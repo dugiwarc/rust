@@ -32,6 +32,8 @@
 
 ## 7 kyu
 
+- [Power of two](./PowerOfTwo/index.rs) - [View Kata Details](https://www.codewars.com/kata/534d0a229345375d520006a0/train/rust)
+
 - [Find the Capitals](./FindTheCapitals/index.rs) - [View Kata Details](https://www.codewars.com/kata/53573877d5493b4d6e00050c/train/rust)
 
 - [Credit Card Mask](./CreditCardMask/index.rs) - [View Kata Details](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/rust)
