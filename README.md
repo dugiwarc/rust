@@ -10,6 +10,8 @@
 
 ## 8 kyu
 
+- [Function 2 - squaring an argument](./Function2/index.rs) - [View Kata Details](https://www.codewars.com/kata/523b623152af8a30c6000027/train/rust)
+
 - [Sort and Star](./SortAndStar/index.rs) - [View Kata Details](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/rust)
 
 - [DNA to RNA Conversion](./DnaToRnaConversion/index.rs) - [View Kata Details](https://www.codewars.com/kata/5556282156230d0e5e000089/train/rust)
