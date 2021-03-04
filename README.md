@@ -52,7 +52,9 @@
 
 ## 6 kyu
 
-- [Give me a Diamond](./GiveMeADiamond/index.rs) - [View Kata Details](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/rust)
+- [Give me a Diamond](./GiveMeADiamond/index.rs) - [View Kata Details](https://www.codewars.com/kata/552c028c030765286c00007d/train/rust)
+
+- [Give me a Diamond](./IQTest/index.rs) - [View Kata Details](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/rust)
 
 - [Replace With Alphabet Position](./ReplaceWithAlphabetPosition/index.rs) - [View Kata Details](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/rust)
 
